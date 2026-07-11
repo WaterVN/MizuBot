@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "dreamchasers.play.hosting",
-    "port": 48918,
+    "ip": "dreamchasers.aternos.me",
+    "port": 23602,
     "version": "1.21.1",
     "try-creative": false
   },
