@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "plsdontkillme",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "dreamchasers.play.hosting",
-    "port": 38242,
+    "port": 48918,
     "version": "1.21.1",
     "try-creative": false
   },
