@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "plsdontkill",
+    "username": "mizubot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "dreamchasers.aternos.me",
+    "ip": "dreamschaser.aternos.me",
     "port": 23602,
     "version": "1.21.1",
     "try-creative": false
